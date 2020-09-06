@@ -1,2 +1,2 @@
 Objective -
-to develop an web based tool that will replace a legacy reporting system. 
+to develop an web based tool as a replacement of a legacy reporting system. 

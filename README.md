@@ -1,5 +1,5 @@
 Objective -
-* to develop an web based tool as a replacement of a legacy reporting system of an US based health care provider.
+* to develop an web based tool (as a replacement of a legacy reporting system) for an US based health care provider.
 * to report budget vs actual : aggregated across 
 1. service providers 
 2. States 

@@ -8,9 +8,11 @@ Objective -
 
 
 Industry - 
-health care industry
+health care 
 
 Functionalities -
 trend data
 trend histroy
 edit Trend history
+batch data processing
+revert batch data processing

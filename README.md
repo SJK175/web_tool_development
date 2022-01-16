@@ -16,3 +16,4 @@ trend histroy
 edit Trend history
 batch data processing
 revert batch data processing
+customized report generation

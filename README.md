@@ -11,9 +11,9 @@ Industry -
 health care 
 
 Functionalities -
-trend data
-trend histroy
-edit Trend history
-batch data processing
-revert batch data processing
-customized report generation
+* trend data
+* trend histroy
+* edit Trend history
+* batch data processing
+* revert batch data processing
+* customized report generation

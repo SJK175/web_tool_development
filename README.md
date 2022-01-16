@@ -12,7 +12,7 @@ health care
 
 Functionalities -
 * trend data
-* trend histroy
+* trend history
 * edit Trend history
 * batch data processing
 * revert batch data processing
